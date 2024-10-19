@@ -1,4 +1,4 @@
-# Certificate Generator - ReactJS + Vite
+# Certificate Generator 
 
 ![Certificate Generator Preview](./image.png)
 
